@@ -1,5 +1,5 @@
 # Josh Gold
-# Creates a CSV report for enabled users, with various attributes, including a multi-value attribute
+# Creates a CSV report for enabled users, with various attributes, including a multi-value attribute (some AD attributes can be arrays)
 
 Import-Module ActiveDirectory
 
